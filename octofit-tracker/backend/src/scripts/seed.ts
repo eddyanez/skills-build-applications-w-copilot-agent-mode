@@ -62,3 +62,6 @@ export async function seed() {
 if (process.argv[1]?.endsWith('seed.ts')) {
   await seed();
 }
+
+
+
